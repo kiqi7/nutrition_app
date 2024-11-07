@@ -94,4 +94,4 @@ lib/
 │       ├── domain/
 │       └── presentation/
 ├── app.dart
-└── main.dart
+└── main.dart# nutrition_app
